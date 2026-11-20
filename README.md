@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="profile.svg" width="180" alt="Mostanaser Billah" />
+<img src="banner.svg" width="100%" alt="Mostanaser Billah — Statistics Student, Data Analyst, Co-Founder @ BoiFind" />
 
-# Hi there, I'm Mostanaser Billah 👋
+<img src="profile.svg" width="170" alt="Mostanaser Billah" />
 
-**B.Sc. Statistics Student @ Dhaka Central University · Co-Founder @ BoiFind · Data Analytics · React · Supabase**
+# Mostanaser Billah
+
+**B.Sc. Statistics Student · Data Analyst · Co-Founder @ BoiFind**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mostanaser&color=2563eb&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostanaser-billah)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mostanaserbillah@gmail.com)
 
 </div>
 
@@ -13,34 +19,37 @@
 ### 👨‍💻 About Me
 
 - 🎓 First-year **B.Sc. Statistics** student at **Dhaka Central University** (Titumir Campus), Dhaka, Bangladesh
-- 🚀 **Co-Founder @ BoiFind** — a live marketplace for buying, selling & exchanging second-hand academic books in Bangladesh (React · TypeScript · Supabase · PostgreSQL)
+- 🚀 **Co-Founder @ BoiFind** — a live marketplace for buying, selling & exchanging second-hand academic books in Bangladesh
 - 💼 **Marketing Event Executive (Part-time)** @ OnnoRokom EdTech
 - 📊 I share what I learn in statistics & data — in public — as **#StatisticsInPublic**
 - 🌱 Currently learning: Data Analytics, Python, React & Supabase
 
+### 🔭 Currently
+
+- Building **BoiFind** — circular economy for academic books in Bangladesh
+- Studying **Statistics, Probability & Linear Algebra** — and turning the concepts into public posts
+- Open to **internships & entry-level roles** in data analytics, AI training and web development
+
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,ts,react,supabase,postgres,nodejs,express,vite,git,github,vscode,excel&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ### 🚀 Projects
 
-| Project | What it is |
-|---|---|
-| **BoiFind** | Live book marketplace — buy, sell & exchange second-hand academic books, with AI-assisted features & delivery |
-| **DCU Statistics Website** | Official department website — auth, dashboards, events, alumni directory & student community |
-| **BizPilot AI** | Market research & product workflows for AI-driven e-commerce store management |
-| **21-Day Study System** | Syllabus-based study planner & tracking workbook for Statistics undergraduates |
+| Project | What it is | Stack |
+|---|---|---|
+| **BoiFind** | Live book marketplace — buy, sell & exchange second-hand academic books, with AI-assisted features & delivery | React · TypeScript · Supabase · PostgreSQL |
+| **DCU Statistics Website** | Official department website — auth, dashboards, events, alumni directory & student community | React · TypeScript · Supabase |
+| **BizPilot AI** | Market research & product workflows for AI-driven e-commerce store management | AI · Data Analysis |
+| **21-Day Study System** | Syllabus-based study planner & tracking workbook for Statistics undergraduates | Excel · Google Sheets |
 
 ---
 

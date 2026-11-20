@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061a36"/>
+      <stop offset="55%" stop-color="#0a2547"/>
+      <stop offset="100%" stop-color="#0d2a4d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect x="0" y="292" width="1200" height="8" fill="url(#accent)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="118" font-size="58" font-weight="bold" fill="#ffffff" letter-spacing="2">MOSTANASER BILLAH</text>
+    <text x="72" y="168" font-size="26" fill="#60A5FA">Statistics Student &#183; Data Analyst &#183; Co-Founder @ BoiFind</text>
+    <rect x="72" y="192" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="72" y="238" font-size="20" fill="#94A3B8">Dhaka Central University &#183; Dhaka, Bangladesh</text>
+  </g>
+  <g font-family="Georgia, serif">
+    <text x="1000" y="215" font-size="190" font-weight="bold" fill="#FACC15" fill-opacity="0.16" text-anchor="middle">&#931;</text>
+  </g>
+  <g stroke="#3B82F6" stroke-width="3" fill="none" opacity="0.75">
+    <line x1="880" y1="238" x2="880" y2="196"/>
+    <line x1="905" y1="238" x2="905" y2="172"/>
+    <line x1="930" y1="238" x2="930" y2="150"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="880" cy="192" r="5"/>
+    <circle cx="905" cy="168" r="5"/>
+    <circle cx="930" cy="146" r="5"/>
+  </g>
+</svg>
